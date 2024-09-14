@@ -13,10 +13,10 @@ DESCRIPTION:
 - With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 GOAL:
-It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+- It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
 
 METRIC:
-Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+- Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
 
 FINAL SCORE:
 14055.08660
